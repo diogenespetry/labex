@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Joao e Maria</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fotografar">Fotografar</string>
+    <string name="verlocal">Ver Local</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="title_activity_fotografar">Fotografar</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="menu_settings">Menu</string>
+
+
+</resources>
